@@ -20,19 +20,23 @@
 <h2>Upute za postavljanje i pokretanje projekta</h2>
 
   <h3>1. Kloniranje repozitorija</h3>
-  ```
+  
+  ```bash
 git clone https://github.com/NikolinaC2104/library-app-expo.git
   ```
  
   <h3>2. Instaliranje zavisnosti (dependencies)</h3>
-  ```
+  
+  ```bash
   npm install
   ```
 
   <h3>3. Pokretanje Expo projekta</h3>
-  ```
+  
+  ```bash
   npx expo start
   ```
+
   <h3>4. Skenirajte QR kod sa Expo Go aplikacijom na mobitelu</h3>
 
 <h2>Autor</h2>
