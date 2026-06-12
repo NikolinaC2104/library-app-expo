@@ -1,6 +1,7 @@
 <h1>Library App (React Native + Expo)</h1>
--> jednostavna mobilna aplikacija za upravljanje knjigama u knjižnici, izrađena s React Native-om (Expo) i spojena na MockAPI backend.
-
+  <ul>
+     <li>Jednostavna mobilna aplikacija za upravljanje knjigama u knjižnici, izrađena s React Native-om (Expo) i spojena na MockAPI backend</li>
+  </ul>
 <h2>Funkcionalnosti</h2>
   <ul>
     <li>Prikaz popisa knjiga</li>
